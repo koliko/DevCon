@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DevCon</string>
+    <string name="titleOne">We solve problem</string>
+    <string name="titleTwo">We meet up</string>
+    <string name="facebook">Meet Us</string>
+    <string name="tiwitter">Follow Us</string>
+    <string name="slack">Join us on slack</string>
+    <string name="youtube">Watch Us</string>
+    <string name="email">Email Us</string>
+    <string name="web">Visit Us</string>
+</resources>
+
+
